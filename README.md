@@ -10,8 +10,8 @@ process.
 5. If a program manipulates a large amount of data, it does so in a small number of ways.
 6. Symmetry is a complexity reducing concept (co-routines include sub-routines); seek it everywhere.
 7. It is easier to write an incorrect program than understand a correct one.
-8. A programming language is low level when its programs require attention to the irrelevant.
-9. It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures.
+8. 프로그램 목적과 무관한 것에 신경써야 하는 프로그래밍 언어는 저급 언어이다.
+9. 데이터 구조 10개와 함수 10개 보다 데이터 구조 하나에 함수 100개가 있는 것이 더 좋다.
 10. Get into a rut early: Do the same processes the same way. Accumulate idioms. Standardize. The only
 difference (!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary.
 11. If you have a procedure with 10 parameters, you probably missed some.
@@ -132,8 +132,7 @@ arbitrarily small or even kept small.
 90. Computation has made the tree flower.
 91. The computer reminds one of Lon Chaney - it is the machine of a thousand faces.
 92. The computer is the ultimate polluter. Its feces are indistinguishable from the food it produces.
-93. When someone says "I want a programming language in which I need only say what I wish done," give
-him a lollipop.
+93. 누군가 "내가 원하는 것을 말하기만 하면 되는 프로그래밍 언어가 필요하다"라고 말한다면, 그 사람에게 사탕을 하나 줘라.
 94. Interfaces keep things tidy, but don't accelerate growth: Functions do.
 95. Don't have good ideas if you aren't willing to be responsible for them.
 96. Computers don't introduce order anywhere as much as they expose opportunities.
